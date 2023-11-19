@@ -1,0 +1,2 @@
+canopy-sdk==0.2.0
+datasets==2.15.0
